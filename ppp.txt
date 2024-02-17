@@ -1,0 +1,49 @@
+**Privacy Policy for PSL Schedule 2024 App**
+
+This Privacy Policy outlines how information is collected, used, and disclosed by the PSL Schedule 2024 mobile application ("App"). Please read this Privacy Policy carefully before using the App.
+
+**Information Collection and Usage:**
+
+1. **Personal Information:**
+   - The PSL Schedule 2024 App does not collect any personal information from users.
+
+2. **Non-Personal Information:**
+   - The App may collect non-personal information, such as device information, operating system version, and other technical details. This information is used solely for app functionality and performance improvement.
+
+**Usage of Information:**
+
+1. **App Functionality:**
+   - Information collected is used to provide users with the full schedule of the PSL 2024 season and match detail.
+
+2. **Offline Functionality:**
+   - The App works offline, ensuring that users have access to PSL information even without an internet connection.
+
+3. **Automatic Updates:**
+   - The App may automatically update its content to provide users with the latest PSL information.
+
+**Advertisements:**
+
+1. **Ad Display:**
+   - The PSL Schedule 2024 App contains advertisements to support its development and maintenance.
+   
+2. **Third-Party Advertisers:**
+   - Advertisements may be provided by third-party ad networks, and these parties may collect non-personal information for ad targeting purposes.
+
+**Third-Party Links:**
+
+1. **External Links:**
+   - The App may contain links to external websites or services. This Privacy Policy does not cover the practices of third parties, and users are encouraged to review the privacy policies of such external sites.
+
+**Children's Privacy:**
+
+The PSL Schedule 2024 App is not intended for children under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us, and we will promptly delete such information.
+
+**Changes to Privacy Policy:**
+
+This Privacy Policy may be updated from time to time. Users are encouraged to review this page periodically for any changes.
+
+**Contact Us:**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [Your Contact Information].
+
+By using the PSL Schedule 2024 App, you agree to the terms and conditions outlined in this Privacy Policy.
