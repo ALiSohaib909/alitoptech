@@ -1,0 +1,54 @@
+**Privacy Policy for "Ramadan DP Maker with Name" Android App**
+
+
+Thank you for using "Ramadan DP Maker with Name" (the "App"). This Privacy Policy outlines how we collect, use, disclose, and protect your personal information. By using the App, you agree to the terms of this Privacy Policy.
+
+**1. Information Collection:**
+
+a. **Personal Information:**
+   - The App does not collect any personally identifiable information (PII) from users.
+
+b. **Usage Data:**
+   - We may collect non-personal information such as device information, app usage statistics, and other analytics to improve user experience.
+
+c. **Photos and Media:**
+   - The App requires access to your device's photos and media to allow you to customize DP frames. These images are processed locally on your device and are not transmitted or stored externally.
+
+**2. Data Usage:**
+
+a. **Offline Operation:**
+   - The App operates offline, and all processing of photos and data is done locally on your device.
+
+b. **Storage:**
+   - The App saves the created DP in the app's creation folder on your device. This data is not shared or stored externally.
+
+**3. Ads:**
+
+a. **Third-Party Ads:**
+   - The App displays third-party advertisements. Ad providers may collect non-personal information for targeted advertising. Please refer to their respective privacy policies for more details.
+
+**4. Sharing and Exporting:**
+
+a. **Sharing DPs:**
+   - The App allows users to share their created DPs through various channels. The App will only share data as directed by the user.
+
+**5. Security:**
+
+a. **Data Security:**
+   - We take reasonable measures to ensure the security of the data stored on your device. However, as the App operates offline, there is no transmission of data to external servers.
+
+**6. Children's Privacy:**
+
+a. **Age Limitation:**
+   - The App is not intended for children under the age of 13. We do not knowingly collect any personal information from children.
+
+**7. Changes to the Privacy Policy:**
+
+a. **Updates:**
+   - We reserve the right to update this Privacy Policy to reflect changes in our practices. Users will be notified of any significant changes.
+
+**8. Contact Information:**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at muhammadali23000@gmail.com.
+
+By using the "Ramadan DP Maker with Name" App, you agree to the terms outlined in this Privacy Policy.
