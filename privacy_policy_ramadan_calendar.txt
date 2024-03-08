@@ -1,0 +1,47 @@
+Privacy Policy for Ramadan Calendar 2024 & Duas
+
+This Privacy Policy outlines how your personal information is handled when you use the Ramadan Calendar 2024 & Duas application (the "App") on the Google Play Console for Android devices. By using the App, you consent to the collection and use of information as described in this policy.
+
+    Information We Collect
+
+The App requires the following permissions to function properly:
+
+    Location: The App collects your device's location to provide accurate prayer timings based on your geographical location. This information is solely used to fetch data from our API and display precise prayer timings.
+
+    Internet: The App needs internet access to fetch data, including daily Seher and Iftar timings, from API. This allows the App to provide up-to-date information throughout the Ramadan month.
+
+The App does not request or access any other permissions on your device.
+
+    How We Use Your Information
+
+The information collected (location and internet access) is used for the following purposes:
+
+    Location Information: To determine your geographical location and provide accurate prayer timings specific to your area.
+
+    Internet Access: To fetch and display daily Seher and Iftar timings, as well as other relevant information from our API.
+
+    Data Sharing
+
+We do not share your personal information with third parties, except as described below:
+
+    Service Providers: We may engage trusted third-party service providers to assist in delivering and improving the functionality of the App. These service providers are obligated to maintain the confidentiality of your information.
+
+    Legal Compliance: We may disclose your information in response to legal requests or to comply with applicable laws, regulations, or legal processes.
+
+    Advertising
+
+The App may display advertisements from third-party ad networks. These ad networks may collect certain information about your device and usage patterns to deliver relevant ads. Please review the privacy policies of these third-party ad networks for information on their data practices and opt-out options.
+
+    Data Security
+
+We implement reasonable security measures to protect your information from unauthorized access, disclosure, or alteration. However, no method of transmission over the internet or electronic storage is entirely secure.
+
+    Changes to this Privacy Policy
+
+We reserve the right to update this Privacy Policy to reflect changes in our practices or legal requirements. Users will be notified of any significant changes by posting the updated policy within the App.
+
+    Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact us at muhammadali23000@gmail.com.
+
+By using the Ramadan Calendar 2024 & Duas App, you indicate your acceptance of this Privacy Policy. If you do not agree with this policy, please refrain from using the App.
