@@ -1,0 +1,39 @@
+HD Video Downloader is developed and published by Ali Top Tech. We respect the privacy of our users and are committed to protecting it. This Privacy Policy explains how information is handled when you use the HD Video Downloader mobile application.
+By installing or using this App, you agree to the terms described in this Privacy Policy.
+
+Information We Collect
+HD Video Downloader does not require users to sign up or create an account. We do not collect personal information such as name, phone number, email address, contacts, or location.
+Some non-personal and technical information may be collected automatically to ensure smooth app operation. This may include device model, Android version, app version, and basic usage or crash data. This information is used only to improve app performance, stability, and user experience.
+
+Permissions Used by the App
+The App requests limited permissions strictly necessary for its core features.
+Internet access is required to connect to online sources and download video content.
+Network state permission is used to detect internet connectivity and manage downloads efficiently.
+Storage media access allows the App to save downloaded videos to your device so you can access them offline.
+Notification permission is used to inform users about download progress, completion status, or important updates related to the App.
+The App does not access personal files unrelated to downloaded content.
+
+How We Use Information
+Any non-personal information collected is used only for improving functionality, fixing bugs, monitoring performance, and enhancing overall user experience. We do not sell, rent, or share user data with unauthorized third parties.
+
+
+Third-Party Services
+HD Video Downloader may use third-party services such as Google Play Services, advertising networks, or analytics tools. These services may collect limited data according to their own privacy policies. We encourage users to review the privacy policies of these third-party services for more information.
+
+Data Storage and Security
+Downloaded videos are stored locally on your device and are not uploaded to our servers. We use reasonable security measures to protect data; however, no electronic storage method is completely secure, and absolute security cannot be guaranteed.
+
+Children’s Privacy
+HD Video Downloader is not intended for children under the age of 13. We do not knowingly collect personal data from children. If you believe a child has provided any information through the App, please contact us and we will take appropriate action.
+
+Legal Requirements
+We may disclose information if required by law or in response to valid legal requests by authorities.
+
+Changes to This Privacy Policy
+This Privacy Policy may be updated from time to time. Any changes will be reflected within the App or on the policy page. Continued use of the App after changes means acceptance of the updated policy.
+
+Contact Information
+If you have any questions or concerns regarding this Privacy Policy, you may contact us using the details below:
+App Name: HD Video Downloader
+Developer: Ali Top Tech
+Email: muhammadali23000@gmail.com
